@@ -1,4 +1,5 @@
-const socket = io("https://your-server-ip:3000");
+const socket = io("https://2409:408c:1d1f:2bcb::bb09:fd00
+192.0.0.4:3000");
 let peerConnection;
 const myVideo = document.getElementById("myVideo");
 const partnerVideo = document.getElementById("partnerVideo");
